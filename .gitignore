@@ -1,0 +1,7 @@
+# build folder
+build
+**/obj_dir/*
+
+
+*.png
+*.pdf
