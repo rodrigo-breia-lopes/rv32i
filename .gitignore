@@ -1,6 +1,7 @@
 # build folder
-build
+build/
 **/obj_dir/*
+output/
 
 
 *.png
